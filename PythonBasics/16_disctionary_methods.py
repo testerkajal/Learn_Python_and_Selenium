@@ -8,13 +8,14 @@ demo_dict2 = {"1":"kajal","age":26,"3":"QA"}
 demo_dict1.copy()
 print(demo_dict2)
 
+
 # fromkeys()	Returns a dictionary with the specified keys and value
 print(demo_dict2.fromkeys("1","kajal")) #{'1': 'kajal'}
 
 # get()	Returns the value of the specified key
 demo_dict3 = {"1":"kajal",1:2,"3":"4"}
-demo_dict3.get(1)
-print(demo_dict3)
+print(demo_dict3.get(1))
+
 
 
 # items()	Returns a list containing a tuple for each key value pair
