@@ -1,4 +1,4 @@
-#Tuples are indexed, can include duplicate value, and cannot be modified(immutable)
+## Tuples are indexed, can include duplicate value, and cannot be modified(immutable)\
 # Tuples can include items of different data types
 #Tuples are decalred with ()
 
